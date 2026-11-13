@@ -27,8 +27,6 @@ My Skillset
 
 Web | Mobile | API | Red Teaming | AI | Automobile | Hardware | Wireless | Radio Frequency
 
-> 🎯 *"A finding nobody acts on is just noise. My job is to make it impossible to ignore."*
-
 ---
 
 ## 🧭 What I work on
